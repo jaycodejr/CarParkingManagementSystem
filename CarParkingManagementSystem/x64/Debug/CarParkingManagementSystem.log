@@ -1,0 +1,9 @@
+﻿  CPMS.c
+C:\Users\makame.juma\source\projects\C Programming\CarParkingManagementSystem\CarParkingManagementSystem\CPMS.c(175,68): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[10]'
+C:\Users\makame.juma\source\projects\C Programming\CarParkingManagementSystem\CarParkingManagementSystem\CPMS.c(175,29): warning C4024: 'convert_string_to_case': different types for formal and actual parameter 1
+C:\Users\makame.juma\source\projects\C Programming\CarParkingManagementSystem\CarParkingManagementSystem\CPMS.c(185,40): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\makame.juma\source\projects\C Programming\CarParkingManagementSystem\CarParkingManagementSystem\CPMS.c(213,14): warning C4101: 'get_transaction': unreferenced local variable
+C:\Users\makame.juma\source\projects\C Programming\CarParkingManagementSystem\CarParkingManagementSystem\CPMS.c(346,19): warning C4098: 'update_slot': 'void' function returning a value
+C:\Users\makame.juma\source\projects\C Programming\CarParkingManagementSystem\CarParkingManagementSystem\CPMS.c(351,23): warning C4047: 'initializing': 'time_t' differs in levels of indirection from 'void *'
+C:\Users\makame.juma\source\projects\C Programming\CarParkingManagementSystem\CarParkingManagementSystem\CPMS.c(351,23): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+  CarParkingManagementSystem.vcxproj -> C:\Users\makame.juma\source\projects\C Programming\CarParkingManagementSystem\x64\Debug\CarParkingManagementSystem.exe
